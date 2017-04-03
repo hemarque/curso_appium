@@ -1,0 +1,12 @@
+[caps]
+platformName = "Android"
+app = "app/appiumproject.apk"
+deviceName = "emulator-5554"
+browserName = ""
+platformVersion = "6.0"
+noReset =  false
+fullReset = true
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""
