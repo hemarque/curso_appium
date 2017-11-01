@@ -3,7 +3,7 @@ platformName = "Android"
 app = "app/appiumproject.apk"
 deviceName = "emulator-5554"
 browserName = ""
-platformVersion = "6.0"
+platformVersion = "7.0"
 noReset =  false
 fullReset = true
 
